@@ -13,7 +13,6 @@ public class Run {
         Menu.getFile().OpenFileToLoad();
         Menu.getFile().ReadRecords();
         Menu.getFile().CloseFileToLoad();
-//        Menu.getFile().Dict.AddNewVocable("Dog","Takip Etmek","photographers seemed to dog her every step");
         Menu.CreateMenu();
 
     }
